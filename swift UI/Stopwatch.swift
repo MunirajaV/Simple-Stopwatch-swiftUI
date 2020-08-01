@@ -1,6 +1,6 @@
 //
 //  Stopwatch.swift
-//  swift UI
+//  Swift UI
 //
 //  Created by Muniraja Velumani on 29/07/20.
 //  Copyright © 2020 Muniraja Velumani. All rights reserved.

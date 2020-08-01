@@ -1,6 +1,6 @@
 //
 //  swift_UITests.swift
-//  swift UITests
+//  Swift UITests
 //
 //  Created by Muniraja Velumani on 29/07/20.
 //  Copyright © 2020 Muniraja Velumani. All rights reserved.

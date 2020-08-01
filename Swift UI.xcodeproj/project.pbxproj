@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0FC923E024D19C7A0028E344 /* swift UI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift UI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0FC923E024D19C7A0028E344 /* Swift UI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift UI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FC923E324D19C7A0028E344 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0FC923E524D19C7A0028E344 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		0FC923E724D19C7A0028E344 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,10 +45,10 @@
 		0FC923EC24D19C800028E344 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0FC923EF24D19C800028E344 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0FC923F124D19C800028E344 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0FC923F624D19C800028E344 /* swift UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swift UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0FC923F624D19C800028E344 /* Swift UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FC923FA24D19C800028E344 /* swift_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_UITests.swift; sourceTree = "<group>"; };
 		0FC923FC24D19C800028E344 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0FC9240124D19C800028E344 /* swift UIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swift UIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0FC9240124D19C800028E344 /* Swift UIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift UIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FC9240524D19C800028E344 /* swift_UIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_UIUITests.swift; sourceTree = "<group>"; };
 		0FC9240724D19C810028E344 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0FC9241724D19EF50028E344 /* Stopwatch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stopwatch.swift; sourceTree = "<group>"; };
@@ -93,9 +93,9 @@
 		0FC923E124D19C7A0028E344 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0FC923E024D19C7A0028E344 /* swift UI.app */,
-				0FC923F624D19C800028E344 /* swift UITests.xctest */,
-				0FC9240124D19C800028E344 /* swift UIUITests.xctest */,
+				0FC923E024D19C7A0028E344 /* Swift UI.app */,
+				0FC923F624D19C800028E344 /* Swift UITests.xctest */,
+				0FC9240124D19C800028E344 /* Swift UIUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -145,9 +145,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0FC923DF24D19C7A0028E344 /* swift UI */ = {
+		0FC923DF24D19C7A0028E344 /* Swift UI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0FC9240A24D19C810028E344 /* Build configuration list for PBXNativeTarget "swift UI" */;
+			buildConfigurationList = 0FC9240A24D19C810028E344 /* Build configuration list for PBXNativeTarget "Swift UI" */;
 			buildPhases = (
 				0FC923DC24D19C7A0028E344 /* Sources */,
 				0FC923DD24D19C7A0028E344 /* Frameworks */,
@@ -157,14 +157,14 @@
 			);
 			dependencies = (
 			);
-			name = "swift UI";
+			name = "Swift UI";
 			productName = "swift UI";
-			productReference = 0FC923E024D19C7A0028E344 /* swift UI.app */;
+			productReference = 0FC923E024D19C7A0028E344 /* Swift UI.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0FC923F524D19C800028E344 /* swift UITests */ = {
+		0FC923F524D19C800028E344 /* Swift UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0FC9240D24D19C810028E344 /* Build configuration list for PBXNativeTarget "swift UITests" */;
+			buildConfigurationList = 0FC9240D24D19C810028E344 /* Build configuration list for PBXNativeTarget "Swift UITests" */;
 			buildPhases = (
 				0FC923F224D19C800028E344 /* Sources */,
 				0FC923F324D19C800028E344 /* Frameworks */,
@@ -175,14 +175,14 @@
 			dependencies = (
 				0FC923F824D19C800028E344 /* PBXTargetDependency */,
 			);
-			name = "swift UITests";
+			name = "Swift UITests";
 			productName = "swift UITests";
-			productReference = 0FC923F624D19C800028E344 /* swift UITests.xctest */;
+			productReference = 0FC923F624D19C800028E344 /* Swift UITests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		0FC9240024D19C800028E344 /* swift UIUITests */ = {
+		0FC9240024D19C800028E344 /* Swift UIUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0FC9241024D19C810028E344 /* Build configuration list for PBXNativeTarget "swift UIUITests" */;
+			buildConfigurationList = 0FC9241024D19C810028E344 /* Build configuration list for PBXNativeTarget "Swift UIUITests" */;
 			buildPhases = (
 				0FC923FD24D19C800028E344 /* Sources */,
 				0FC923FE24D19C800028E344 /* Frameworks */,
@@ -193,9 +193,9 @@
 			dependencies = (
 				0FC9240324D19C800028E344 /* PBXTargetDependency */,
 			);
-			name = "swift UIUITests";
+			name = "Swift UIUITests";
 			productName = "swift UIUITests";
-			productReference = 0FC9240124D19C800028E344 /* swift UIUITests.xctest */;
+			productReference = 0FC9240124D19C800028E344 /* Swift UIUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -221,7 +221,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0FC923DB24D19C7A0028E344 /* Build configuration list for PBXProject "swift UI" */;
+			buildConfigurationList = 0FC923DB24D19C7A0028E344 /* Build configuration list for PBXProject "Swift UI" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -234,9 +234,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0FC923DF24D19C7A0028E344 /* swift UI */,
-				0FC923F524D19C800028E344 /* swift UITests */,
-				0FC9240024D19C800028E344 /* swift UIUITests */,
+				0FC923DF24D19C7A0028E344 /* Swift UI */,
+				0FC923F524D19C800028E344 /* Swift UITests */,
+				0FC9240024D19C800028E344 /* Swift UIUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -302,12 +302,12 @@
 /* Begin PBXTargetDependency section */
 		0FC923F824D19C800028E344 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0FC923DF24D19C7A0028E344 /* swift UI */;
+			target = 0FC923DF24D19C7A0028E344 /* Swift UI */;
 			targetProxy = 0FC923F724D19C800028E344 /* PBXContainerItemProxy */;
 		};
 		0FC9240324D19C800028E344 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0FC923DF24D19C7A0028E344 /* swift UI */;
+			target = 0FC923DF24D19C7A0028E344 /* Swift UI */;
 			targetProxy = 0FC9240224D19C800028E344 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -451,7 +451,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "starting.swift-UI";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Swift UI";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -470,7 +470,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "starting.swift-UI";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Swift UI";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -493,7 +493,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swift UI.app/swift UI";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Swift UI.app/Swift UI";
 			};
 			name = Debug;
 		};
@@ -514,7 +514,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swift UI.app/swift UI";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Swift UI.app/Swift UI";
 			};
 			name = Release;
 		};
@@ -559,7 +559,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0FC923DB24D19C7A0028E344 /* Build configuration list for PBXProject "swift UI" */ = {
+		0FC923DB24D19C7A0028E344 /* Build configuration list for PBXProject "Swift UI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0FC9240824D19C810028E344 /* Debug */,
@@ -568,7 +568,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0FC9240A24D19C810028E344 /* Build configuration list for PBXNativeTarget "swift UI" */ = {
+		0FC9240A24D19C810028E344 /* Build configuration list for PBXNativeTarget "Swift UI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0FC9240B24D19C810028E344 /* Debug */,
@@ -577,7 +577,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0FC9240D24D19C810028E344 /* Build configuration list for PBXNativeTarget "swift UITests" */ = {
+		0FC9240D24D19C810028E344 /* Build configuration list for PBXNativeTarget "Swift UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0FC9240E24D19C810028E344 /* Debug */,
@@ -586,7 +586,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0FC9241024D19C810028E344 /* Build configuration list for PBXNativeTarget "swift UIUITests" */ = {
+		0FC9241024D19C810028E344 /* Build configuration list for PBXNativeTarget "Swift UIUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0FC9241124D19C810028E344 /* Debug */,
