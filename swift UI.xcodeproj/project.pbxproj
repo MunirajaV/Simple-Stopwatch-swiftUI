@@ -15,6 +15,8 @@
 		0FC923F024D19C800028E344 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FC923EE24D19C800028E344 /* LaunchScreen.storyboard */; };
 		0FC923FB24D19C800028E344 /* swift_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FC923FA24D19C800028E344 /* swift_UITests.swift */; };
 		0FC9240624D19C800028E344 /* swift_UIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FC9240524D19C800028E344 /* swift_UIUITests.swift */; };
+		0FC9241824D19EF50028E344 /* Stopwatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FC9241724D19EF50028E344 /* Stopwatch.swift */; };
+		0FF841D624D53808000DA022 /* TimerValidation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FC9241A24D1A7F70028E344 /* TimerValidation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		0FC9240124D19C800028E344 /* swift UIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swift UIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FC9240524D19C800028E344 /* swift_UIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_UIUITests.swift; sourceTree = "<group>"; };
 		0FC9240724D19C810028E344 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FC9241724D19EF50028E344 /* Stopwatch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stopwatch.swift; sourceTree = "<group>"; };
+		0FC9241A24D1A7F70028E344 /* TimerValidation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerValidation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,7 @@
 			children = (
 				0FC923E324D19C7A0028E344 /* AppDelegate.swift */,
 				0FC923E524D19C7A0028E344 /* SceneDelegate.swift */,
+				0FC9241724D19EF50028E344 /* Stopwatch.swift */,
 				0FC923E724D19C7A0028E344 /* ContentView.swift */,
 				0FC923E924D19C800028E344 /* Assets.xcassets */,
 				0FC923EE24D19C800028E344 /* LaunchScreen.storyboard */,
@@ -121,6 +126,7 @@
 		0FC923F924D19C800028E344 /* swift UITests */ = {
 			isa = PBXGroup;
 			children = (
+				0FC9241A24D1A7F70028E344 /* TimerValidation.swift */,
 				0FC923FA24D19C800028E344 /* swift_UITests.swift */,
 				0FC923FC24D19C800028E344 /* Info.plist */,
 			);
@@ -270,6 +276,7 @@
 				0FC923E424D19C7A0028E344 /* AppDelegate.swift in Sources */,
 				0FC923E624D19C7A0028E344 /* SceneDelegate.swift in Sources */,
 				0FC923E824D19C7A0028E344 /* ContentView.swift in Sources */,
+				0FC9241824D19EF50028E344 /* Stopwatch.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,6 +284,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FF841D624D53808000DA022 /* TimerValidation.swift in Sources */,
 				0FC923FB24D19C800028E344 /* swift_UITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
